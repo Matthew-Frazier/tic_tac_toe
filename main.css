@@ -16,13 +16,18 @@
   justify-content: center;
 }
 
-#box_1 {
+.choice {
   height: 200px;
   width: 200px;
   border: 5px solid red;
 }
 
-#box_2 {
+#o {
+  height: 100px;
+  width: 100px;
+}
+
+/* #box_2 {
   height: 200px;
   width: 200px;
   border: 5px solid red;
@@ -68,4 +73,4 @@
   height: 200px;
   width: 200px;
   border: 5px solid red;
-}
+} */
